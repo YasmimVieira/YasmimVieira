@@ -28,6 +28,7 @@ Estudante de Análise e desenvolvimento de sistemas na **Faculdade Impacta** �
 - ☺️ Recentemente dei inicio a estrutura de um projeto que quero seguir por muito tempo: Criação de conteúdo! Irei postar inicialmente conteúdos sobre HTML, CSS e JavaScript, para poder ajudar pessoas que estão entrando na área de tecnologia (em especial **front-end**).
 </br>
 </br>
+
 ## Estáticas do meu Github
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YasmimVieira&show_icons=true&theme=tokyonight)
