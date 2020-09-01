@@ -32,5 +32,5 @@ Estudante de AnÃ¡lise e desenvolvimento de sistemas na **Faculdade Impacta** ðŸ“
 
 ## Linguagens que mais utilizo nos meus projetos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimVieira)](https://github.com/YasmimVieira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimVieira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
