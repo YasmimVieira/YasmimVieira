@@ -24,8 +24,6 @@ Estudante de Análise e desenvolvimento de sistemas na **Faculdade Impacta** �
 - 💻 Estudando desenvolvimento web com Angular e me aporfundamento mais em javascript e typescript.
 - 🤔 Tenho interesse na área de design, portanto procuro associar alguns conceitos de UI/UX no desenvolvimento das minhas aplicações.
 - ☺️ Recentemente dei inicio a estrutura de um projeto que quero seguir por muito tempo: Criação de conteúdo! Irei postar inicialmente conteúdos sobre HTML, CSS e JavaScript, para poder ajudar pessoas que estão entrando na área de tecnologia (em especial **front-end**).
-</br>
-</br>
 
 ## Estáticas do meu Github
 
