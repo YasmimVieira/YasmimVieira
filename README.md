@@ -12,11 +12,12 @@
 
 </br>
 </br>
-</br>
 
 Seja bem vindo ao meu perfil, aqui eu posto projetos de tecnologias que estou aprendendo. Eu trabalho com tecnologia a **1 ano e 3 meses**, em especial com **desenvolvimento blockhain** 💻, atuando no desenvolvimento do **front-end**  🚀 . 
 
 Estudante de Análise e desenvolvimento de sistemas na **Faculdade Impacta** 📚👨🏽‍💻
+
+</br>
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
@@ -32,8 +33,12 @@ Estudante de Análise e desenvolvimento de sistemas na **Faculdade Impacta** �
 </br>
 </br>
 
+## Estáticas do meu Github
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YasmimVieira&show_icons=true&theme=tokyonight)
 </br>
+
+## Linguagens que mais utilizo nos meus projetos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimVieira)](https://github.com/YasmimVieira)
 </br>
