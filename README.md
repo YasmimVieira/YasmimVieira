@@ -17,8 +17,6 @@ Seja bem vindo ao meu perfil, aqui eu posto projetos de tecnologias que estou ap
 
 Estudante de Análise e desenvolvimento de sistemas na **Faculdade Impacta** 📚👨🏽‍💻
 
-</br>
-
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
 ## Mais um pouco sobre mim
@@ -28,7 +26,6 @@ Estudante de Análise e desenvolvimento de sistemas na **Faculdade Impacta** �
 - 💻 Estudando desenvolvimento web com Angular e me aporfundamento mais em javascript e typescript.
 - 🤔 Tenho interesse na área de design, portanto procuro associar alguns conceitos de UI/UX no desenvolvimento das minhas aplicações.
 - ☺️ Recentemente dei inicio a estrutura de um projeto que quero seguir por muito tempo: Criação de conteúdo! Irei postar inicialmente conteúdos sobre HTML, CSS e JavaScript, para poder ajudar pessoas que estão entrando na área de tecnologia (em especial **front-end**).
-</br>
 </br>
 </br>
 </br>
