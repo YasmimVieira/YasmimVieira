@@ -1,9 +1,5 @@
 ### Oi, eu sou a Yasmim 💻
 
-![Design](https://www.manypixels.co/gallery/?page=1&s=ui%20design)
-
-</br>
-
 <a href="https://www.linkedin.com/in/yasmim-barbosa/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
