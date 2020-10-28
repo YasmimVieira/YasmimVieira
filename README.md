@@ -13,13 +13,13 @@
 </br>
 </br>
 
-Seja bem vindo ao meu perfil, aqui eu posto projetos de tecnologias que estou aprendendo. Eu trabalho com tecnologia a **1 ano e 3 meses**, em especial com **desenvolvimento blockhain** 💻, atuando no desenvolvimento do **front-end**  🚀 . 
+Seja bem vindo ao meu perfil, aqui eu posto projetos de tecnologias que estou aprendendo. Eu trabalho com tecnologia, atuando no desenvolvimento **front-end**  🚀 . 
 
 Estudante de Análise e desenvolvimento de sistemas na **Faculdade Impacta** 📚👨🏽‍💻
   
 ## Mais um pouco sobre mim
 
-- 👨🏽‍💻 Trabalhando na  [4cadia BlockFactory](https://www.4cadia.com/)
+- 👨🏽‍💻 Aberta ao mercado e novas oportunidades
 - 🌱 Skills: javascript, angular, reactjs, redux, html, css, bootstrap, conceitos de desenvolvimento blockchain e básico de UI/UX
 - 💻 Estudando desenvolvimento web com Angular e me aporfundamento mais em javascript e typescript.
 - 🤔 Tenho interesse na área de design, portanto procuro associar alguns conceitos de UI/UX no desenvolvimento das minhas aplicações.
