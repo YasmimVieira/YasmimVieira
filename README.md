@@ -1,5 +1,7 @@
 ### ✨ Hello, I'm Yasmim 💻
 
+</br>
+
 <a href="https://www.linkedin.com/in/yasmim-barbosa/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,6 +16,7 @@
 </br>
 
 💻📚👨🏽‍ I'm a frontend developer 
+</br>
 🏡 Brazilian, based in São Paulo, SP 
   
 ## 🔎 You can find me on
