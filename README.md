@@ -1,4 +1,4 @@
-### Oi, eu sou a Yasmim 💻
+### ✨ Hello, I'am Yasmim 💻
 
 <a href="https://www.linkedin.com/in/yasmim-barbosa/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,24 +13,35 @@
 </br>
 </br>
 
-Seja bem vindo ao meu perfil, aqui eu posto projetos de tecnologias que estou aprendendo. Eu trabalho com tecnologia, atuando no desenvolvimento **front-end**  🚀 . 
-
-Estudante de Análise e desenvolvimento de sistemas na **Faculdade Impacta** 📚👨🏽‍💻
+- 💻📚👨🏽‍ I'm a frontend developer 
+- 🏡 Brazilian, based in São Paulo, SP 
   
-## Mais um pouco sobre mim
+## 🎈 About me
 
-- 👨🏽‍💻 Aberta ao mercado e novas oportunidades
-- 🌱 Skills: javascript, angular, reactjs, redux, html, css, bootstrap, conceitos de desenvolvimento blockchain e básico de UI/UX
-- 💻 Estudando desenvolvimento web com Angular e me aporfundamento mais em javascript e typescript.
-- 🤔 Tenho interesse na área de design, portanto procuro associar alguns conceitos de UI/UX no desenvolvimento das minhas aplicações.
-- ☺️ Recentemente dei inicio a estrutura de um projeto que quero seguir por muito tempo: Criação de conteúdo! Irei postar inicialmente conteúdos sobre HTML, CSS e JavaScript, para poder ajudar pessoas que estão entrando na área de tecnologia (em especial **front-end**).
+### 🔎 You can find me on
 
-## Estáticas do meu Github
+- 🔗 ![Linkedin](https://www.linkedin.com/in/yasmim-barbosa/)
+- 📑 ![Medium](https://yasmimv.medium.com/)
+
+### 📜 Lastest posts on Medium
+
+- ![Múltiplos valores no css](https://yasmimv.medium.com/m%C3%BAltiplos-valores-no-css-52ca56d4441f)
+- ![Separando responsabilidades](https://yasmimv.medium.com/separando-responsabilidade-f9e297ea11e3)
+- ![Box model em 2min](https://yasmimv.medium.com/box-model-be86f65f602e)
+- ![Simplificando a web](https://yasmimv.medium.com/simplificando-a-web-b7948a7b1e68)
+
+### 📄 Latest posts on Linkedin
+
+- ![Aonde encontrar imagens 3D](https://www.linkedin.com/feed/update/urn:li:activity:6765415405298176001/)
+- ![Box shadow](https://www.linkedin.com/feed/update/urn:li:activity:6763909966609842176/)
+- ![Página not found](https://www.linkedin.com/feed/update/urn:li:activity:6760998170756554752/)
+
+## 📊 Estáticas do meu Github
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YasmimVieira&show_icons=true&theme=tokyonight)
 </br>
 
-## Linguagens que mais utilizo nos meus projetos
+## 📴 Linguagens que mais utilizo nos meus projetos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimVieira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
