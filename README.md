@@ -15,7 +15,7 @@
 </br>
 </br>
 
-💻📚👨🏽‍ I'm a frontend developer 
+💻 I'm a frontend developer 
 </br>
 🏡 Brazilian, based in São Paulo, SP 
   
