@@ -37,12 +37,12 @@
 - [Box shadow](https://www.linkedin.com/feed/update/urn:li:activity:6763909966609842176/)
 - [Página not found](https://www.linkedin.com/feed/update/urn:li:activity:6760998170756554752/)
 
-## 📊 Estáticas do meu Github
+## 📊 Static from my Github
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YasmimVieira&show_icons=true&theme=tokyonight)
 </br>
 
-## 📴 Linguagens que mais utilizo nos meus projetos
+## 📴 Programming languages which I have been used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimVieira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
