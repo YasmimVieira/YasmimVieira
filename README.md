@@ -1,4 +1,4 @@
-### ✨ Hello, I'am Yasmim 💻
+### ✨ Hello, I'm Yasmim 💻
 
 <a href="https://www.linkedin.com/in/yasmim-barbosa/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,28 +13,26 @@
 </br>
 </br>
 
-- 💻📚👨🏽‍ I'm a frontend developer 
-- 🏡 Brazilian, based in São Paulo, SP 
+💻📚👨🏽‍ I'm a frontend developer 
+🏡 Brazilian, based in São Paulo, SP 
   
-## 🎈 About me
+## 🔎 You can find me on
 
-### 🔎 You can find me on
-
-- 🔗 ![Linkedin](https://www.linkedin.com/in/yasmim-barbosa/)
-- 📑 ![Medium](https://yasmimv.medium.com/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/yasmim-barbosa/)
+- 📑 [Medium](https://yasmimv.medium.com/)
 
 ### 📜 Lastest posts on Medium
 
-- ![Múltiplos valores no css](https://yasmimv.medium.com/m%C3%BAltiplos-valores-no-css-52ca56d4441f)
-- ![Separando responsabilidades](https://yasmimv.medium.com/separando-responsabilidade-f9e297ea11e3)
-- ![Box model em 2min](https://yasmimv.medium.com/box-model-be86f65f602e)
-- ![Simplificando a web](https://yasmimv.medium.com/simplificando-a-web-b7948a7b1e68)
+- [Múltiplos valores no css](https://yasmimv.medium.com/m%C3%BAltiplos-valores-no-css-52ca56d4441f)
+- [Separando responsabilidades](https://yasmimv.medium.com/separando-responsabilidade-f9e297ea11e3)
+- [Box model em 2min](https://yasmimv.medium.com/box-model-be86f65f602e)
+- [Simplificando a web](https://yasmimv.medium.com/simplificando-a-web-b7948a7b1e68)
 
 ### 📄 Latest posts on Linkedin
 
-- ![Aonde encontrar imagens 3D](https://www.linkedin.com/feed/update/urn:li:activity:6765415405298176001/)
-- ![Box shadow](https://www.linkedin.com/feed/update/urn:li:activity:6763909966609842176/)
-- ![Página not found](https://www.linkedin.com/feed/update/urn:li:activity:6760998170756554752/)
+- [Aonde encontrar imagens 3D](https://www.linkedin.com/feed/update/urn:li:activity:6765415405298176001/)
+- [Box shadow](https://www.linkedin.com/feed/update/urn:li:activity:6763909966609842176/)
+- [Página not found](https://www.linkedin.com/feed/update/urn:li:activity:6760998170756554752/)
 
 ## 📊 Estáticas do meu Github
 
