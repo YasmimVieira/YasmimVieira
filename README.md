@@ -42,7 +42,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YasmimVieira&show_icons=true&theme=tokyonight)
 </br>
 
-## 📴 Programming languages which I have been used
+## 📴 Programming languages which I have been using
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimVieira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
