@@ -15,7 +15,7 @@
 </br>
 </br>
 
-💻 I'm a frontend developer 
+💻 I'm a frontend developer at PIX Santander
 </br>
 🏡 Brazilian, based in São Paulo, SP 
   
