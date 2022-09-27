@@ -33,9 +33,7 @@
 
 ### 📄 Latest posts on Linkedin
 
-- [Aonde encontrar imagens 3D](https://www.linkedin.com/feed/update/urn:li:activity:6765415405298176001/)
-- [Box shadow](https://www.linkedin.com/feed/update/urn:li:activity:6763909966609842176/)
-- [Página not found](https://www.linkedin.com/feed/update/urn:li:activity:6760998170756554752/)
+- [Parece que alguem ganhou aumento! haha](https://www.linkedin.com/feed/update/urn:li:activity:6977145329640988672/)
 
 ## 📊 Static from my Github
 
