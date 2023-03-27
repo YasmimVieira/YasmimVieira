@@ -2,16 +2,6 @@
 
 </br>
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasmim-barbosa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasmim-barbosa/" height="30" width="40" /></a>
-<a href="https://medium.com/https://yasmimv.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://yasmimv.medium.com/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/yasmim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/yasmim" height="30" width="40" /></a>
-<a href="https://discord.gg/Yasmim#2653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yasmim#2653" height="30" width="40" /></a>
-</p>
-
-</br>
-</br>
-
 💻 I'm a frontend developer at PIX Santander.
 </br>
 🏡 Brazilian, based in São Paulo, SP.
