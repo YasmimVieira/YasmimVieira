@@ -46,5 +46,5 @@
 
 ## 📴 Programming languages which I have been using
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimVieira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmimvieira&show_icons=true&locale=en&layout=compact" alt="yasmimvieira" /></p>
 </br>
